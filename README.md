@@ -4,4 +4,16 @@
 A very basic calculator.
 
 
+### You can:
+- Add
+- Substract
+- Multiply
+- Divide
+- Exponentiate
+
+
+
+
+
+
 ##### This is my first project
