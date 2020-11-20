@@ -35,9 +35,11 @@ while result == 0:
     if sym == operators[0]:
         result = num1 + num2
         print("The result is:", result)
+        break
     elif sym == operators[1]:
         result = num1 - num2
         print("The result is:", result)
+        break
     elif sym == operators[2]:
         result = num1 * num2
         print("The result is:", result)
@@ -45,6 +47,8 @@ while result == 0:
     elif sym == operators[3]:
         result = num1 / num2
         print("The result is:", result)
+        break
     elif sym == operators[4]:
         result = num1 ** num2
         print("The result is:", result)
+        break
